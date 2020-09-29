@@ -13,7 +13,7 @@ keywords:
   - replication
   - cluster
   - high availability
-home: https://github.com/bitnami/charts/tree/master/bitnami/postgresql-ha
+home: https://github.com/infrapc/charts/tree/master/bitnami/postgresql-ha
 icon: https://bitnami.com/assets/stacks/postgresql/img/postgresql-stack-110x117.png
 sources:
   - https://github.com/bitnami/bitnami-docker-postgresql
